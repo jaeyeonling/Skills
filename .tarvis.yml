@@ -1,0 +1,4 @@
+langulage: java
+
+jdk:
+  - openjdk12
